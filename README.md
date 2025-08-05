@@ -1,4 +1,4 @@
-# 3-tier app (frontend, backend, database) on Kubernetes using Jenkins CI/CD
+# 3-Tier Web Application CI/CD Pipeline with Jenkins and Kubernetes
 
 ## Step 1: I Set up project structure locally (Windows / VS Code terminal)
 
