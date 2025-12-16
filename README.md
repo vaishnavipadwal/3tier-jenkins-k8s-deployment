@@ -318,7 +318,6 @@ pipeline {
 }
 ```
 
-**Note:** Replace `<dockerhub-username>`, `dockerhub-cred-id`, and Git repo URL with your actual details.
 
 ---
 
